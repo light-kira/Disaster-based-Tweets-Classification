@@ -1,0 +1,5 @@
+1. IndexOutOfBoundsError:  Not extending file names with .txt while model building.
+2. Author keywords can be independent of the text file.
+3. Check2 : Training set-> each email confined author keywords
+   Check1 : Training set-> global corpus author keywords for each email
+   Check3 : Training set-> global corpus author keywords + global corpus of emails
